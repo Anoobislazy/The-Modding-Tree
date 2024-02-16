@@ -1,8 +1,8 @@
 let modInfo = {
 	name: "The Lazy Bad Root",
 	id: "69420748920",
-	author: "nobody",
-	pointsName: "points",
+	author: "NOOB",
+	pointsName: "Water/L",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
