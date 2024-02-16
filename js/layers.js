@@ -35,7 +35,7 @@ addLayer("g", {
 
     }, 13: {title: "GrowGrowGrow",
     description: "x4 ur Water gain.",
-    cost: new Decimal(5),
+    cost: new Decimal(9),
 
     },
 
