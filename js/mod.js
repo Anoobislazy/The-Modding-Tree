@@ -38,7 +38,7 @@ function canGenPoints(){
 }
 
 // Calculate points/sec!
-function getPointGen() {if (hasUpgrade('g', 11)) gain = gain.times(2)
+function getPointGen() {
 	if(!canGenPoints())
 		return new Decimal(0)
 

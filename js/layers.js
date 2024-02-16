@@ -29,6 +29,14 @@ addLayer("g", {
     description: "Double your Water gain.",
     cost: new Decimal(1),
 
+    }, 12: {title: "Annoying Rains",
+    description: "x4 ur Water gain.",
+    cost: new Decimal(5),
+
+    }, 13: {title: "GrowGrowGrow",
+    description: "x4 ur Water gain.",
+    cost: new Decimal(5),
+
     },
 
     },
