@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "The Lazy Bad Root",
+	name: "The Lazy Bad Root omg",
 	id: "69420748920",
 	author: "NOOB",
 	pointsName: "Water/L",
